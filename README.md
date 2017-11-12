@@ -8,7 +8,7 @@ To install the Workflow have a look on the following steps.
 For this workflow to work you need Alfred version 3 or above and a powerpack licence.
 
 ### Install workflow
-Download the Workflow here and add it to alfred.
+Download the Workflow [here](https://github.com/dgo-/alfred-todoist2day/releases/download/1.0/alfred-todoist2day.alfredworkflow) and add it to alfred.
 
 ### Configure the workflow
 To access the API from Todoist you have to configure the API token. You finde your API token under: Settings > Integrations > API token.
