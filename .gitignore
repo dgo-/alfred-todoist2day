@@ -1,4 +1,5 @@
 *.DS_Store
 *.pyc
+*.alfredworkflow
 src/myconfig.py
 src/mylang.py
