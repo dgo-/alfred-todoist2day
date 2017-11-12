@@ -1,0 +1,4 @@
+*.DS_Store
+*.pyc
+src/myconfig.py
+src/mylang.py
